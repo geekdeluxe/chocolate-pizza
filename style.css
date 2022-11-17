@@ -1,0 +1,12 @@
+<h2{ 
+    font-weight: bold;
+}
+.row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+main{
+    width:70%;
+}
